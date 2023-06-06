@@ -1,0 +1,14 @@
+/home/elfsa/Software/clion-2021.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/elfsa/Feature_Match-simple
+CMake Deprecation Warning at CMakeLists.txt:2 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Found OpenCV: /usr (found suitable version "4.2.0", minimum required is "4.2") 
+OpenCV_LIBS: opencv_calib3dopencv_coreopencv_dnnopencv_features2dopencv_flannopencv_highguiopencv_imgcodecsopencv_imgprocopencv_mlopencv_objdetectopencv_photoopencv_stitchingopencv_videoopencv_videoioopencv_arucoopencv_bgsegmopencv_bioinspiredopencv_ccalibopencv_datasetsopencv_dnn_objdetectopencv_dnn_superresopencv_dpmopencv_faceopencv_freetypeopencv_fuzzyopencv_hdfopencv_hfsopencv_img_hashopencv_line_descriptoropencv_optflowopencv_phase_unwrappingopencv_plotopencv_qualityopencv_regopencv_rgbdopencv_saliencyopencv_shapeopencv_stereoopencv_structured_lightopencv_superresopencv_surface_matchingopencv_textopencv_trackingopencv_videostabopencv_vizopencv_ximgprocopencv_xobjdetectopencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/elfsa/Feature_Match-simple/cmake-build-release
